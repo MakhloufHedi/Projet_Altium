@@ -1,8 +1,8 @@
 # Projet_Altium
 ## Schematic File
-![image](https://github.com/MakhloufHedi/Projet_Altium/assets/94899721/2391ee42-0906-47f8-b47d-13199e77f5ea)
+![image](https://github.com/MakhloufHedi/Projet_Altium/assets/94899721/a55f7bbd-70a0-4f84-9cc8-a67549582d6e)
 ## Final PCB
-![image](https://github.com/MakhloufHedi/Projet_Altium/assets/94899721/8c807f8f-0a73-473c-9e30-2becf82e5b65)
+![image](https://github.com/MakhloufHedi/Projet_Altium/assets/94899721/4a62e944-eb1b-406d-b0e1-efe2caeb4cac)
 ## 3D Model
-![image](https://github.com/MakhloufHedi/Projet_Altium/assets/94899721/66267cef-1f19-49fb-9c15-c393b431c3dd)
-![image](https://github.com/MakhloufHedi/Projet_Altium/assets/94899721/3b1f3dec-c63d-4755-a24c-125c9c2df667)
+![image](https://github.com/MakhloufHedi/Projet_Altium/assets/94899721/b5f8fda9-7f35-4f88-aa47-f9d0da4ffac7)
+![image](https://github.com/MakhloufHedi/Projet_Altium/assets/94899721/137b46d3-e103-424a-9f56-6d7c319cac9c)
